@@ -6,8 +6,8 @@ iExpense es una app para gestionar gastos personales o de negocio con soporte pa
 - Soporte para múltiples divisas.
 - Persistencia de datos utilizando `UserDefaults` y codificación JSON.
 - Interfaz intuitiva para añadir, visualizar y eliminar gastos.
-  
-<p align="center">
+
  ![iExpense](https://github.com/user-attachments/assets/76791581-9f0d-49b6-93b0-19e610d39827) 
-</p>
+ 
+
 
