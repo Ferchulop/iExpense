@@ -1,5 +1,5 @@
 # iExpense
-iExpense es una app para gestionar gastos personales o de negocio con soporte para varias divisas. Desarrollada en SwiftUI, permite registrar, visualizar y eliminar gastos, con persistencia de datos usando UserDefaults
+iExpense es una app desarrollada en SwiftUi para gestionar gastos personales o de negocio con soporte para varias divisas. Permite registrar, visualizar y eliminar gastos, con persistencia de datos usando UserDefaults.
 
 ## Características:
 - Registro y organización de gastos en dos categorías: personales o de negocio.
